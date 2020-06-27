@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="78px" viewBox="0 0 62 78" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Icon/Recharged</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon/Recharged" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g stroke="#FFFFFF">
+            <g id="Leaf" transform="translate(37.023790, 53.322988) rotate(42.000000) translate(-37.023790, -53.322988) translate(20.488357, 35.226612)" stroke-width="2">
+                <path d="M9.99817889,11.7070229 C13.731129,7.97410746 20.0746154,5.95981479 29.0286383,5.66414492 C28.6319535,14.6356042 26.5967626,20.9581653 22.9230657,24.6318281 C19.2493688,28.3054909 12.9048951,30.3625166 3.88964471,30.8029052 C4.22905074,21.8052325 6.2652288,15.4399384 9.99817889,11.7070229 Z" id="Rectangle" transform="translate(16.459141, 18.233525) rotate(-45.000000) translate(-16.459141, -18.233525) "></path>
+                <line x1="16.4909409" y1="0.709042532" x2="16.4909409" y2="36.0357551" id="Line-3" stroke-linecap="square"></line>
+                <polyline id="Leaf2" stroke-linecap="square" points="7.80869022 21.0783003 16.4909409 26.1060564 25.1731916 21.0783003"></polyline>
+                <polyline id="Leaf1" stroke-linecap="square" points="9.3318921 10.8969744 16.4909409 15.9247306 23.6499897 10.8969744"></polyline>
+            </g>
+            <g id="Battery">
+                <line x1="9.5857583" y1="51.485464" x2="19.1715166" y2="51.485464" id="Negative" stroke-width="3" opacity="0.898414249" stroke-linecap="square"></line>
+                <path d="M14.3786375,25.9976105 L14.3786375,36.1927519 M9.5857583,31.0951812 L19.1715166,31.0951812" id="Plus" stroke-width="3" opacity="0.900065104" stroke-linecap="square"></path>
+                <path d="M25.0932143,66.9006434 C24.9298849,66.9006434 25.0952067,66.9006434 24.9260589,66.9006434 C20.3470116,66.9006434 13.6359517,66.9006434 4.79287915,66.9006434 C2.14584509,66.9006434 0,64.4959159 0,61.6806053 L0,10.7048984 C0,7.88958789 2.14584509,5.60732776 4.79287915,5.60732776 L43.1359124,5.60732776 C45.7829464,5.60732776 47.9287915,7.88958789 47.9287915,10.7048984 L47.9287915,39.5750291" id="Path"></path>
+                <line x1="0" y1="15.8024691" x2="47.9287915" y2="15.8024691" id="Line" stroke-linecap="square"></line>
+                <path d="M14.3786375,5.09757069 L14.3786375,1.69919023 C14.3786375,0.760753379 15.45156,0 16.775077,0 L31.1537145,0 C32.4772315,0 33.5501541,0.760753379 33.5501541,1.69919023 L33.5501541,5.09757069" id="Path" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

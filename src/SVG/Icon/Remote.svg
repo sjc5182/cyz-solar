@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="80px" viewBox="0 0 30 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Icon/Remote</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon/Remote" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g stroke="#FFFFFF">
+            <rect id="Rectangle" stroke-width="2" x="0" y="17.8640777" width="30" height="62.1359223" rx="5"></rect>
+            <g id="Button" transform="translate(7.500000, 25.262805)">
+                <rect id="Rectangle5" x="11.25" y="36.491463" width="3.75" height="3.6491463"></rect>
+                <rect id="Rectangle4" x="0" y="36.491463" width="3.75" height="3.6491463"></rect>
+                <rect id="Rectangle3" x="11.25" y="18.2457315" width="3.75" height="3.6491463"></rect>
+                <rect id="Rectangle2" x="0" y="18.2457315" width="3.75" height="3.6491463"></rect>
+                <rect id="Rectangle1" x="11.25" y="0" width="3.75" height="3.6491463"></rect>
+                <rect id="Rectangle" x="0" y="0" width="3.75" height="3.6491463"></rect>
+            </g>
+            <path d="M9.375,10.9010691 C10.7324855,9.11387795 12.74888,7.98125209 15,7.98125209 C17.25112,7.98125209 19.2675145,9.11387795 20.625,10.9010691" id="Wave2" stroke-width="2"></path>
+            <path d="M3.75,5.10930472 C6.46497095,1.98194979 10.4977599,0 15,0 C19.5022401,0 23.5350291,1.98194979 26.25,5.10930472" id="Wave" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

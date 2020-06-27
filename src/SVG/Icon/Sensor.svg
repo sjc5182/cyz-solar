@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="80px" viewBox="0 0 70 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Icon/Sensor</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon/Sensor" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <g id="Wave" transform="translate(33.908131, 5.714286)" stroke="#FFFFFF" stroke-width="2">
+                <path d="M0,68.5072133 C19.3727001,68.5072133 35.0773766,53.1713512 35.0773766,34.2536066 C35.0773766,15.3358621 19.3727001,0 0,0" id="Path"></path>
+                <path d="M0,59.9438116 C14.5295251,59.9438116 26.3080324,48.4419151 26.3080324,34.2536066 C26.3080324,20.0652982 14.5295251,8.56340166 0,8.56340166" id="Path"></path>
+                <path d="M0,51.38041 C9.68635007,51.38041 17.5386883,43.7124789 17.5386883,34.2536066 C17.5386883,24.7947344 9.68635007,17.1268033 0,17.1268033" id="Path"></path>
+            </g>
+            <g id="Motion">
+                <path d="M0,0 L8.38491771,0 C16.669189,-1.52179594e-15 23.3849177,6.71572875 23.3849177,15 L23.3849177,65 C23.3849177,73.2842712 16.669189,80 8.38491771,80 L0,80 L0,80 L0,0 Z" id="Rectangle" fill="#FFFFFF"></path>
+                <path d="M23.3849177,47.1428571 C27.4208969,47.1428571 30.6927045,43.9448911 30.6927045,40 C30.6927045,36.0551089 27.4208969,32.8571429 23.3849177,32.8571429" id="Path" stroke="#FFFFFF" stroke-width="3"></path>
+            </g>
+        </g>
+    </g>
+</svg>
