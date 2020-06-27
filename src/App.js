@@ -1,6 +1,5 @@
 import React from "react";
-import { Section, Container, Layout } from "./Styled/Container";
-import { createGlobalStyle } from "styled-components";
+import { Section, Container } from "./Styled/Container";
 import Logo from "./SVG/Icon/Logo.svg";
 import Hamburger from "./SVG/Icon/Hambuger.svg";
 import "./App.css";
