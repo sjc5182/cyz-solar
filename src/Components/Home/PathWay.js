@@ -11,7 +11,7 @@ class BreadCumb extends React.Component {
     return (
       <BreadCumbContainer>
         <img
-          srcSet={`${MobileBC} 320w, ${MobileMedBC} 480w, ${TabletBC} 640w, ${TabletMedBC} 992w ${DesktopBC} 1280w ${DesktopMedBC} 1920w`}
+          srcSet={`${MobileBC} 320w, ${MobileMedBC} 480w, ${TabletBC} 640w, ${TabletMedBC} 992w, ${DesktopBC} 1280w, ${DesktopMedBC} 1920w`}
           alt={"DriveWay"}
         />
       </BreadCumbContainer>
