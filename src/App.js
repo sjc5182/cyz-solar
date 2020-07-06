@@ -22,6 +22,10 @@ function App() {
       </Container>
       <ResponsivePlayer />
       <BreadCumb />
+      <div style={{ textAlign: "center" }}>
+        <h2>Made for Enviromental Families</h2>
+        <h5 style={{ opacity: "70%" }}>solar pathway from home to business</h5>
+      </div>
     </Section>
   );
 }
