@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Icon/UV</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon/UV" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="Oval" fill="#D8D8D8" cx="25" cy="25" r="25"></circle>
+            <g id="Group-7" transform="translate(7.000000, 7.500000)">
+                <ellipse id="Oval" stroke-opacity="0.8" stroke="#4450E6" stroke-width="2" fill="#FFFFFF" cx="18" cy="17.8876173" rx="8.92561983" ry="8.64197531"></ellipse>
+                <g id="Group-5" stroke="#4450E6" stroke-linecap="square" stroke-opacity="0.8" stroke-width="2">
+                    <line x1="18" y1="0.674973451" x2="18" y2="6.43629032" id="Line-5"></line>
+                    <line x1="35.5909091" y1="17.8888889" x2="29.6181818" y2="17.8888889" id="Line-5-Copy"></line>
+                    <line x1="18" y1="28.6593345" x2="18" y2="34.4206514" id="Line-5-Copy-2"></line>
+                    <line x1="3.39954545" y1="14.914798" x2="3.39954545" y2="20.8629798" id="Line-5-Copy-3" transform="translate(3.399545, 17.888889) rotate(90.000000) translate(-3.399545, -17.888889) "></line>
+                </g>
+                <g id="Group-6" transform="translate(7.729772, 7.064530)" stroke="#4450E6" stroke-linecap="square" stroke-opacity="0.8" stroke-width="2">
+                    <line x1="0.0414297398" y1="2.25150593" x2="2.38102899" y2="2.13196301" id="Line-5-Copy-4" transform="translate(1.211229, 2.191734) rotate(47.000000) translate(-1.211229, -2.191734) "></line>
+                    <line x1="0.223818493" y1="20.0180319" x2="2.57890497" y2="19.9713506" id="Line-5-Copy-6" transform="translate(1.401362, 19.994691) rotate(147.000000) translate(-1.401362, -19.994691) "></line>
+                    <line x1="18.1124712" y1="1.47253487" x2="20.4547102" y2="1.42858441" id="Line-5-Copy-5" transform="translate(19.283591, 1.450560) rotate(137.000000) translate(-19.283591, -1.450560) "></line>
+                    <line x1="18.1589964" y1="19.476681" x2="20.4985957" y2="19.357138" id="Line-5-Copy-7" transform="translate(19.328796, 19.416909) rotate(47.000000) translate(-19.328796, -19.416909) "></line>
+                </g>
+                <text id="UV" font-family="Poppins-ExtraBold, Poppins" font-size="6" font-weight="600" line-spacing="9" letter-spacing="0.75" fill="#4450E6">
+                    <tspan x="12.9596147" y="20.3888889">UV</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Icon/Frost</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon/Frost" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="Oval" fill="#D8D8D8" cx="25" cy="25" r="25"></circle>
+            <g id="Snow" transform="translate(9.000000, 12.000000)" stroke="#4450E6" stroke-linecap="square" stroke-opacity="0.8" stroke-width="1.5">
+                <g id="Snow/Top" transform="translate(0.807692, 0.000000)">
+                    <g id="Leaf" transform="translate(9.431377, 0.000000)">
+                        <line x1="5.80147908" y1="2.48699759" x2="5.80147908" y2="12.0164094" id="Line"></line>
+                        <line x1="5.80147908" y1="8.76470588" x2="3.26301754" y2="6.64705882" id="Line"></line>
+                        <line x1="8.12953337" y1="8.97511312" x2="6.01188632" y2="6.43665158" id="Line-flip" transform="translate(7.070710, 7.705882) rotate(270.000000) translate(-7.070710, -7.705882) "></line>
+                        <g id="Leaf/Left" transform="translate(0.089941, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                        <g id="Leaf/right" transform="translate(8.513018, 2.786959) scale(-1, 1) translate(-8.513018, -2.786959) translate(5.513018, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                    </g>
+                    <g id="Leaf-Copy-2" transform="translate(9.580510, 8.669679) rotate(-60.000000) translate(-9.580510, -8.669679) translate(3.580510, 2.169679)">
+                        <line x1="5.80147908" y1="2.48699759" x2="5.80147908" y2="12.0164094" id="Line"></line>
+                        <line x1="5.80147908" y1="8.76470588" x2="3.26301754" y2="6.64705882" id="Line"></line>
+                        <line x1="8.12953337" y1="8.97511312" x2="6.01188632" y2="6.43665158" id="Line-flip" transform="translate(7.070710, 7.705882) rotate(270.000000) translate(-7.070710, -7.705882) "></line>
+                        <g id="Leaf/Left" transform="translate(0.089941, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                        <g id="Leaf/right" transform="translate(8.513018, 2.786959) scale(-1, 1) translate(-8.513018, -2.786959) translate(5.513018, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                    </g>
+                    <g id="Leaf-Copy" transform="translate(21.197020, 9.421224) rotate(60.000000) translate(-21.197020, -9.421224) translate(15.197020, 2.921224)">
+                        <line x1="5.80147908" y1="2.48699759" x2="5.80147908" y2="12.0164094" id="Line"></line>
+                        <line x1="5.80147908" y1="8.76470588" x2="3.26301754" y2="6.64705882" id="Line"></line>
+                        <line x1="8.12953337" y1="8.97511312" x2="6.01188632" y2="6.43665158" id="Line-flip" transform="translate(7.070710, 7.705882) rotate(270.000000) translate(-7.070710, -7.705882) "></line>
+                        <g id="Leaf/Left" transform="translate(0.089941, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                        <g id="Leaf/right" transform="translate(8.513018, 2.786959) scale(-1, 1) translate(-8.513018, -2.786959) translate(5.513018, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                    </g>
+                </g>
+                <g id="Snow/Bot" transform="translate(16.481617, 16.470588) rotate(180.000000) translate(-16.481617, -16.470588) translate(1.481617, 7.470588)">
+                    <g id="Leaf" transform="translate(9.431377, 0.000000)">
+                        <line x1="5.80147908" y1="2.48699759" x2="5.80147908" y2="12.0164094" id="Line"></line>
+                        <line x1="5.80147908" y1="8.76470588" x2="3.26301754" y2="6.64705882" id="Line"></line>
+                        <line x1="8.12953337" y1="8.97511312" x2="6.01188632" y2="6.43665158" id="Line-flip" transform="translate(7.070710, 7.705882) rotate(270.000000) translate(-7.070710, -7.705882) "></line>
+                        <g id="Leaf/Left" transform="translate(0.089941, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                        <g id="Leaf/right" transform="translate(8.513018, 2.786959) scale(-1, 1) translate(-8.513018, -2.786959) translate(5.513018, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                    </g>
+                    <g id="Leaf-Copy-2" transform="translate(9.580510, 8.669679) rotate(-60.000000) translate(-9.580510, -8.669679) translate(3.580510, 2.169679)">
+                        <line x1="5.80147908" y1="2.48699759" x2="5.80147908" y2="12.0164094" id="Line"></line>
+                        <line x1="5.80147908" y1="8.76470588" x2="3.26301754" y2="6.64705882" id="Line"></line>
+                        <line x1="8.12953337" y1="8.97511312" x2="6.01188632" y2="6.43665158" id="Line-flip" transform="translate(7.070710, 7.705882) rotate(270.000000) translate(-7.070710, -7.705882) "></line>
+                        <g id="Leaf/Left" transform="translate(0.089941, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                        <g id="Leaf/right" transform="translate(8.513018, 2.786959) scale(-1, 1) translate(-8.513018, -2.786959) translate(5.513018, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                    </g>
+                    <g id="Leaf-Copy" transform="translate(21.197020, 9.421224) rotate(60.000000) translate(-21.197020, -9.421224) translate(15.197020, 2.921224)">
+                        <line x1="5.80147908" y1="2.48699759" x2="5.80147908" y2="12.0164094" id="Line"></line>
+                        <line x1="5.80147908" y1="8.76470588" x2="3.26301754" y2="6.64705882" id="Line"></line>
+                        <line x1="8.12953337" y1="8.97511312" x2="6.01188632" y2="6.43665158" id="Line-flip" transform="translate(7.070710, 7.705882) rotate(270.000000) translate(-7.070710, -7.705882) "></line>
+                        <g id="Leaf/Left" transform="translate(0.089941, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                        <g id="Leaf/right" transform="translate(8.513018, 2.786959) scale(-1, 1) translate(-8.513018, -2.786959) translate(5.513018, 0.286959)">
+                            <line x1="5.71153846" y1="4.310527" x2="1.90384615" y2="1.13405641" id="Line-8-Copy"></line>
+                            <line x1="3.78039315" y1="2.00139387" x2="2.5657607" y2="0.266718951" id="Line-9" transform="translate(3.173077, 1.134056) rotate(35.000000) translate(-3.173077, -1.134056) "></line>
+                            <line x1="0.634615385" y1="2.19287994" x2="3.17307692" y2="2.19287994" id="Line-9-Copy"></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
