@@ -1,21 +1,25 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
+  "short_name": "CYZ Solar",
+  "name": "Solar Light",
+  "icons": [{
       "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "logo180.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "180x180"
     },
     {
-      "src": "logo512.png",
+      "src": "./image/favicon-16x16.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "16x16"
+    },
+    {
+      "src": "./image/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32"
     }
   ],
   "start_url": ".",
