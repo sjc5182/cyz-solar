@@ -3,8 +3,6 @@ import styled from "styled-components";
 export const Section = styled.div`
   max-width: 100vw;
   height: 100vh;
-  @import url('link href="https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap" rel="stylesheet"');
-  font-family: "Poppins", sans-serif;
 `;
 
 export const Container = styled.div`
