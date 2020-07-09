@@ -37,3 +37,12 @@ export const DetailSlide = styled.div`
     height: 300px;
   }
 `;
+
+export const IconBorder = styled.div`
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  background-color: #d8d8d8;
+  text-align: center;
+  line-height: 50px;
+`;
