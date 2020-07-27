@@ -2,7 +2,7 @@ import React from "react";
 import { LearnButton } from "../../Styled/ReusableComponents/Button";
 
 function Button() {
-  return <LearnButton>Learn More</LearnButton>;
+  return <LearnButton>LEARN MORE</LearnButton>;
 }
 
 export default Button;

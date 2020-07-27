@@ -5,6 +5,7 @@ import ResponsivePlayer from "../Components/Home/HomeVideo";
 import BreadCumb from "../Components/Home/BreadCumb";
 import IntroTemplate from "../Components/ReusableComponents/Text-Intro";
 import ProductList from "../Components/Home/ProductList";
+import Support from "../Components/ReusableComponents/Support";
 import Logo from "../SVG/Icon/Logo.svg";
 import Hamburger from "../SVG/Icon/Hambuger.svg";
 
@@ -33,6 +34,7 @@ function App() {
         <IntroTemplate />
       </Detail>
       <ProductList />
+      <Support />
     </Section>
   );
 }
