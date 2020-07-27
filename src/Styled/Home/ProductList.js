@@ -9,7 +9,7 @@ export const ProductImg = styled.div`
   background-image: url(${bgIMG});
   color: #ffffff;
   h1 {
-    padding-top: 15px;
+    padding-top: 25px;
     text-align: center;
     font-size: 30px;
     color: white;
