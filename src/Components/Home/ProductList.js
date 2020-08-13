@@ -4,11 +4,18 @@ import {
   ItemSlide,
   ProductHeader,
 } from "../../Styled/Home/ProductList";
+import { useHistory } from "react-router-dom";
 import Button from "../../Components/ReusableComponents/Button";
+import Product from "../../Pages/Product";
 import W01 from "../../Images/W-01-Solar.png";
 import R01 from "../../Images/R-01-Solar.png";
 
 function ProductList() {
+  const history = useHistory();
+  const handleclick = () => {
+    history.push("/Product");
+  };
+
   return (
     <ProductImg>
       <h1>Let your motion do the job.</h1>
@@ -17,13 +24,13 @@ function ProductList() {
           <img src={R01} alt="Item R-01" />
           <p>CYZ R-01 Wall Light</p>
           <p>$35</p>
-          <Button />
+          <button />
         </ProductHeader>
         <ProductHeader>
           <img src={W01} alt="Item W-01" style={{ paddingTop: "25px" }} />
           <p style={{ paddingTop: "25px" }}>CYZ W-01 Wall Light</p>
           <p>$32</p>
-          <Button />
+          <button onClick={handleclick} />
         </ProductHeader>
       </ItemSlide>
     </ProductImg>

@@ -1,5 +1,7 @@
 import React from "react";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Home from "./Pages/Home";
+import Product from "./Pages/Product";
 import "./App.css";
 
 // const GlobalStyle = createGlobalStyle`
@@ -9,7 +11,18 @@ import "./App.css";
 // `;
 
 function App() {
-  return <Home />;
+  return (
+    <Router>
+      <Switch>
+        <Route path="/Product">
+          <Product />
+        </Route>
+        <Route path="/">
+          <Home />
+        </Route>
+      </Switch>
+    </Router>
+  );
 }
 
 export default App;
