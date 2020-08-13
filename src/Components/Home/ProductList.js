@@ -5,8 +5,8 @@ import {
   ProductHeader,
 } from "../../Styled/Home/ProductList";
 import { useHistory } from "react-router-dom";
-import Button from "../../Components/ReusableComponents/Button";
-import Product from "../../Pages/Product";
+// import Button from "../../Components/ReusableComponents/Button";
+// import Product from "../../Pages/Product";
 import W01 from "../../Images/W-01-Solar.png";
 import R01 from "../../Images/R-01-Solar.png";
 
