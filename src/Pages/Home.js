@@ -1,13 +1,12 @@
 import React from "react";
-import { Section, Container } from "../Styled/Container";
+import { Section } from "../Styled/Section";
+import Container from "../Components/ReusableComponents/NavBar";
 import { Detail } from "../Styled/ReusableComponents/Text-Intro";
 import ResponsivePlayer from "../Components/Home/HomeVideo";
 import BreadCumb from "../Components/Home/BreadCumb";
 import IntroTemplate from "../Components/ReusableComponents/Text-Intro";
 import ProductList from "../Components/Home/ProductList";
 import Support from "../Components/ReusableComponents/Support";
-import Logo from "../SVG/Icon/Logo.svg";
-import Hamburger from "../SVG/Icon/Hambuger.svg";
 
 // const GlobalStyle = createGlobalStyle`
 //   body {
@@ -15,13 +14,10 @@ import Hamburger from "../SVG/Icon/Hambuger.svg";
 //   }
 // `;
 
-function App() {
+function Home() {
   return (
     <Section>
-      <Container>
-        <img src={Logo} alt="Logo" />
-        <img src={Hamburger} alt="Hamburger" />
-      </Container>
+      <Container />
       <ResponsivePlayer />
       <BreadCumb />
       <Detail>
@@ -39,4 +35,4 @@ function App() {
   );
 }
 
-export default App;
+export default Home;

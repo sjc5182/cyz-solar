@@ -5,14 +5,14 @@ import {
   ProductHeader,
 } from "../../Styled/Home/ProductList";
 import { useHistory } from "react-router-dom";
-// import Button from "../../Components/ReusableComponents/Button";
+import Button from "../../Components/ReusableComponents/Button";
 // import Product from "../../Pages/Product";
 import W01 from "../../Images/W-01-Solar.png";
 import R01 from "../../Images/R-01-Solar.png";
 
 function ProductList() {
   const history = useHistory();
-  const handleclick = () => {
+  const handleClick = () => {
     history.push("/Product");
   };
 
@@ -30,7 +30,7 @@ function ProductList() {
           <img src={W01} alt="Item W-01" style={{ paddingTop: "25px" }} />
           <p style={{ paddingTop: "25px" }}>CYZ W-01 Wall Light</p>
           <p>$32</p>
-          <button onClick={handleclick} />
+          <Button handleClick={handleClick} />
         </ProductHeader>
       </ItemSlide>
     </ProductImg>

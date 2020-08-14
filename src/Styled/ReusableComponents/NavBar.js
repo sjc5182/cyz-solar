@@ -1,12 +1,6 @@
 import styled from "styled-components";
 
-export const Section = styled.div`
-  max-width: 100vw;
-  height: 100vh;
-  font-family: "Poppins", sans-serif;
-`;
-
-export const Container = styled.div`
+export const Wrapper = styled.div`
   width: 100%;
   height: 80px;
   display: flex;

@@ -8,4 +8,5 @@ export const LearnButton = styled.div`
   border-radius: 20px;
   background-color: rgba(244, 132, 11, 0.8);
   line-height: 30px;
+  cursor: pointer;
 `;
