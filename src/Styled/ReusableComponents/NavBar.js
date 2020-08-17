@@ -8,6 +8,7 @@ export const Wrapper = styled.div`
   align-items: center;
   img {
     margin: 10px 15px;
+    cursor: pointer;
   }
 
   @media (min-width: 768px) {

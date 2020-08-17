@@ -1,6 +1,4 @@
 import React from "react";
-import { Section } from "../Styled/Section";
-import Container from "../Components/ReusableComponents/NavBar";
 import { Detail } from "../Styled/ReusableComponents/Text-Intro";
 import ResponsivePlayer from "../Components/Home/HomeVideo";
 import BreadCumb from "../Components/Home/BreadCumb";
@@ -16,8 +14,7 @@ import Support from "../Components/ReusableComponents/Support";
 
 function Home() {
   return (
-    <Section>
-      <Container />
+    <>
       <ResponsivePlayer />
       <BreadCumb />
       <Detail>
@@ -31,7 +28,7 @@ function Home() {
       </Detail>
       <ProductList />
       <Support />
-    </Section>
+    </>
   );
 }
 
