@@ -1,6 +1,8 @@
 import React from "react";
+import { bool, func } from "prop-types";
+import { DropDownContainer } from "../../Styled/ReusableComponents/MobileDropDown";
 
-function DropDown() {
+function DropDownMenu({ open }) {
   const navLinks = [
     { id: 1, text: "Home", path: "/" },
     { id: 2, text: "Product", path: "/Product" },
@@ -8,12 +10,19 @@ function DropDown() {
     { id: 1, text: "Login", path: "/Login" },
   ];
   return (
-    <ul>
-      {navLinks.map((links) => (
-        <li>{links.text}</li>
-      ))}
-    </ul>
+    <DropDownContainer open={open}>
+      <ul>
+        {navLinks.map((links) => (
+          <li>{links.text}</li>
+        ))}
+      </ul>
+    </DropDownContainer>
   );
 }
 
-export default DropDown;
+DropDownMenu.prototype = {
+  open: bool.isRequired,
+  setOpen: func.isRequired,
+};
+
+export default DropDownMenu;

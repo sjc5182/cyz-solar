@@ -12,35 +12,21 @@ import "./App.css";
 //   }
 // `;
 
-class App extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = { isDropDown: true };
-  }
-
-  handleDropDownToggle = () => {
-    this.setState((state) => ({
-      isDropDown: !state.isDropDown,
-    }));
-  };
-
-  render() {
-    console.log(this.state.isDropDown);
-    return (
-      <Router>
-        <Section>
-          <NavBar DropDownMenu={this.handleDropDownToggle} />
-          <Switch>
-            <Route path="/Product">
-              <Product />
-            </Route>
-            <Route path="/">
-              <Home />
-            </Route>
-          </Switch>
-        </Section>
-      </Router>
-    );
-  }
+function App() {
+  return (
+    <Router>
+      <Section>
+        <NavBar />
+        <Switch>
+          <Route path="/Product">
+            <Product />
+          </Route>
+          <Route path="/">
+            <Home />
+          </Route>
+        </Switch>
+      </Section>
+    </Router>
+  );
 }
 export default App;
