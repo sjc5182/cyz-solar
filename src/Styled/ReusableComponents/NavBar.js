@@ -1,17 +1,17 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
-  width: 100%;
+  width: auto;
   height: 80px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  margin: 0px 15px;
+
   img {
-    margin: 10px 15px;
+    padding-left: 10px;
     cursor: pointer;
   }
-
-  @media (min-width: 768px) {
+  /* @media (min-width: 768px) {
     img {
       margin: 10px 30px;
     }
@@ -21,5 +21,22 @@ export const Wrapper = styled.div`
     img {
       margin: 10px 45px;
     }
+  } */
+`;
+
+export const HamburgerWrapper = styled.div`
+  width: 60px;
+  height: auto;
+  margin: 28px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  span {
+    width: 35px;
+    height: 5px;
+    background-color: #4450e6;
+    opacity: 80%;
   }
 `;

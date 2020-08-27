@@ -1,12 +1,6 @@
 import React from "react";
-import DropDown from "../Components/ReusableComponents/MobileDropDown";
-
 function Product() {
-  return (
-    <div>
-      <DropDown />
-    </div>
-  );
+  return <div>Hello, you are in product page</div>;
 }
 
 export default Product;
