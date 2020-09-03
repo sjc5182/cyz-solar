@@ -2,7 +2,7 @@ import React from "react";
 import { bool, func } from "prop-types";
 import { DropDownContainer } from "../../Styled/ReusableComponents/MobileDropDown";
 
-function DropDownMenu({ isMobile, open }) {
+function DropDownMenu({ isMobile, open, isID }) {
   const navLinks = [
     { id: 1, text: "Home", path: "/" },
     { id: 2, text: "Product", path: "/Product" },
@@ -10,7 +10,7 @@ function DropDownMenu({ isMobile, open }) {
     { id: 1, text: "Login", path: "/Login" },
   ];
   return (
-    <DropDownContainer open={open} isMobile={isMobile}>
+    <DropDownContainer isID={isID} open={open} isMobile={isMobile}>
       {navLinks.map((links) => (
         <a href={links.path}>{links.text}</a>
       ))}

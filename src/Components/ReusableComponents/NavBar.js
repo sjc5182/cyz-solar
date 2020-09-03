@@ -61,14 +61,17 @@ class NavBar extends React.Component {
             </HamburgerWrapper>
           ) : (
             <DropDownMenu
+              isID={"1"}
               isMobile={this.state.isMobile}
               open={this.state.open}
             />
           )}
         </Wrapper>
-        {this.state.isMobile && this.state.open ? (
-          <DropDownMenu isMobile={this.state.isMobile} open={this.state.open} />
-        ) : null}
+        <DropDownMenu
+          isID={"2"}
+          isMobile={this.state.isMobile}
+          open={this.state.open}
+        />
       </div>
       /* <DropDownMenu open={open} setOpen={setOpen}>
           <img src={Hamburger} alt="Hamburger" onClick={() => setOpen(!open)} />
