@@ -27,7 +27,7 @@ function Product() {
       </ImgSlideWrapper>
       <ImgChoiceWrapper>
         {ProductPics.map((ele) => (
-          <img src={ele.data} alt={ele.altName} />
+          <img key={ele.id} src={ele.data} alt={ele.altName} />
         ))}
       </ImgChoiceWrapper>
     </ItemWrapper>
